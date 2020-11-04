@@ -1,7 +1,6 @@
 require "capybara" 
 require "capybara/cucumber"
 require "selenium-webdriver"
-require "report_builder"
 require "rspec"
 
 EL = YAML.load_file(File.join(Dir.pwd, "data/elementos.yaml"))
