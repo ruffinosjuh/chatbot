@@ -1,7 +1,6 @@
 require "capybara" 
 require "capybara/cucumber"
 require "selenium-webdriver"
-require "faker"
 require "report_builder"
 require "rspec"
 
