@@ -1,0 +1,5 @@
+campo_nome:        "#vinter-loginForm-nome"
+campo_telefone:    "#vinter-loginForm-telefone"
+campo_cpf:         "#vinter-loginForm-cpf"
+botao_entrar:      "#vinter-btnSend"
+botao_nao_cliente: "#vinter-tab-nao-cliente"
